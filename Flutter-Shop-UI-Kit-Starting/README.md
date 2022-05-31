@@ -1,8 +1,9 @@
-# stylish
-
 A new Flutter project.
 
 ## Getting Started
+
+![Screenshot_1653975292](https://user-images.githubusercontent.com/69295859/171100476-58f3a3b2-fdbc-43c7-841a-836c271e6018.png)
+
 
 This project is a starting point for a Flutter application.
 
