@@ -1,8 +1,8 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_1653975292](https://user-images.githubusercontent.com/69295859/171100702-fe838eb5-26fa-4e97-b36a-79e4cf808864.png)
 
-![Screenshot_1653975292](https://user-images.githubusercontent.com/69295859/171100476-58f3a3b2-fdbc-43c7-841a-836c271e6018.png)
 
 
 This project is a starting point for a Flutter application.
